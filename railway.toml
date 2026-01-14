@@ -1,0 +1,15 @@
+## Railway configuration for the Rent Roll API
+#
+# This file tells Railway how to build and deploy the Python server.
+# It specifies the build system (Nixpacks) and defines a health check
+# for the deployment to ensure the service is running. The restart
+# policy ensures the service is restarted on failure.
+
+[build]
+builder = "NIXPACKS"  # Use Nixpacks to automatically detect and build dependencies
+
+[deploy]
+healthcheckPath = "/api/health"        # Endpoint used by Railway to check if the app is healthy
+healthcheckTimeout = 300               # Timeout for the health check in seconds
+restartPolicyType = "ON_FAILURE"       # Restart the service if it fails
+restartPolicyMaxRetries = 10           # Maximum number of restart attempts
