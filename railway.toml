@@ -13,3 +13,5 @@ healthcheckPath = "/api/health"        # Endpoint used by Railway to check if th
 healthcheckTimeout = 300               # Timeout for the health check in seconds
 restartPolicyType = "ON_FAILURE"       # Restart the service if it fails
 restartPolicyMaxRetries = 10           # Maximum number of restart attempts
+
+startCommand = "waitress-serve --port $PORT app:app"
