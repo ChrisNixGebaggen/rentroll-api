@@ -1,7 +1,26 @@
-flask==3.0.0
-flask-cors==4.0.0
-pandas==2.1.4
-openpyxl==3.1.2
-xlrd==2.0.1
-pdfplumber==0.10.3
-gunicorn==21.2.0
+# RentRoll API - Production Dependencies for Railway
+
+# Web Framework
+flask>=3.1.0
+flask-cors>=5.0.0
+
+# Data Processing
+pandas>=2.2.3
+numpy>=2.0.0
+openpyxl>=3.1.5
+xlrd>=2.0.1
+
+# PDF Processing
+pdfplumber>=0.11.0
+pypdf>=5.0.0
+
+# Excel Advanced
+python-dateutil>=2.9.0
+pytz>=2024.1
+
+# Production Server (waitress statt gunicorn)
+waitress>=3.0.0
+
+# Utilities
+requests>=2.32.0
+python-dotenv>=1.0.0
