@@ -1,0 +1,722 @@
+{
+  "_metadata": {
+    "version": "2.1",
+    "source": "Master_Header_Mapping_MultiLanguage_3_sheets_updated.xlsx",
+    "generated": "2026-01-13",
+    "languages": [
+      "EN",
+      "DE",
+      "FR",
+      "IT",
+      "NL",
+      "PL",
+      "SV"
+    ],
+    "CRITICAL_NOTE": "NEVER convert units! Keep original values.",
+    "instructions": {
+      "unit_separation": "Always split into _value, _unit, _original fields",
+      "no_conversion": "NEVER convert USD to EUR or sqft to m²"
+    }
+  },
+  "admin_fee": [
+    "Admin Fee"
+  ],
+  "annual_rate_per_sqft": [
+    "Annual Rate per SqFt",
+    "Jahresrate pro SqFt",
+    "Taux Annuel par SqFt",
+    "Tariffa Annuale per SqFt",
+    "Jaarlijkse Tarief per SqFt",
+    "Roczna Stawka za SqFt",
+    "Årlig Taxa per SqFt"
+  ],
+  "area_according_to_la": [
+    "Area according to la",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "area_sqft": [
+    "Area sqft",
+    "Mietfläche (ft²)",
+    "Surface Locative (ft²)",
+    "Superficie Locata (ft²)",
+    "Huuroppervlakte (ft²)",
+    "Powierzchnia Najmu (ft²)",
+    "Hyresarea (ft²)",
+    "Sqft",
+    "Area (sqft)",
+    "Rent",
+    "NKM Ist-Miete",
+    "Loyer Net Froid Actuel",
+    "Canone Netto Freddo Attuale",
+    "Werkelijke Kale Huur",
+    "Rzeczywisty Czynsz Podstawowy Netto",
+    "Faktisk Kallhyra Netto"
+  ],
+  "area_sqm": [
+    "Lettable area (excl. parking) [m²]",
+    "Vermietbare Fläche (exkl. Stellplätze)",
+    "Occupied Area (SQM)",
+    "Vermietete Fläche",
+    "Rental Area (SQM)",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea",
+    "Vacant Area (SQM)",
+    "Leerstandsfläche",
+    "Area sqm",
+    "Sqm",
+    "Area (sqm)",
+    "Net lettable area",
+    "Actual net lettable area"
+  ],
+  "asset_manager": [
+    "Asset Manager"
+  ],
+  "balance": [
+    "Balance"
+  ],
+  "base_year": [
+    "Base Year",
+    "Basisjahr",
+    "Année de Base",
+    "Anno Base",
+    "Basisjaar",
+    "Rok Bazowy",
+    "Basår"
+  ],
+  "base_year_amount": [
+    "Base Year Amount",
+    "Basisjahr Betrag",
+    "Montant de l'Année de Base",
+    "Importo Anno Base",
+    "Basisjaar Bedrag",
+    "Kwota Roku Bazowego",
+    "Basårsbelopp"
+  ],
+  "beginn": [
+    "Beginn",
+    "Beginn (Mietbeginn aktueller Vertrag)",
+    "Prise d'effet bail"
+  ],
+  "break_date": [
+    "Next Break Option Date",
+    "Datum nächster Optionstermin",
+    "Prochaine BO"
+  ],
+  "building_name": [
+    "Building description",
+    "Gebäude-Bezeichnung",
+    "Building ID",
+    "Gebäude-ID",
+    "Suite/Unit (Building-Unit)",
+    "Mieteinheit (Wohnung/Laden etc.)"
+  ],
+  "city": [
+    "City",
+    "Ort"
+  ],
+  "commencement_date": [
+    "Commencement date",
+    "Beginn (Mietbeginn aktueller Vertrag)",
+    "Prise d'effet bail"
+  ],
+  "comments": [
+    "Comments",
+    "Commentaires"
+  ],
+  "contract_id": [
+    "Contract ID",
+    "Stammvertrag-ID"
+  ],
+  "contractual_partner": [
+    "Contractual partner",
+    "Vertragspartner"
+  ],
+  "country": [
+    "Country",
+    "Land"
+  ],
+  "country_code": [
+    "Country code",
+    "Länderkürzel"
+  ],
+  "currency": [
+    "Currency",
+    "Währung",
+    "Devise",
+    "Valuta",
+    "Waluta",
+    "Currency_1",
+    "Curr"
+  ],
+  "definitives_vertragsende": [
+    "Definitives Vertragsende",
+    "Fin de bail"
+  ],
+  "deposit": [
+    "Deposit (Security Deposit)",
+    "Kaution",
+    "Dépôt de Garantie",
+    "Deposito Cauzionale",
+    "Borg",
+    "Kaucja",
+    "Säkerhetsdeposition",
+    "Security Deposit"
+  ],
+  "discount_contractual": [
+    "Discount (Contractual)"
+  ],
+  "discount_extracontractual": [
+    "Discount (Extra-Contractual)"
+  ],
+  "due_date_stichtag": [
+    "Due date (Stichtag)",
+    "Stichtag",
+    "Date de Référence",
+    "Peildatum",
+    "Data Odniesienia",
+    "Referensdatum"
+  ],
+  "end_of_fixed_contract_term": [
+    "End of fixed contract term",
+    "Ende Festlaufzeit"
+  ],
+  "english": [
+    "English",
+    "German",
+    "French",
+    "Italian",
+    "Dutch",
+    "Polish",
+    "Swedish"
+  ],
+  "expected_moveout_date": [
+    "Expected Move-Out Date"
+  ],
+  "expiry_date": [
+    "Expiry date",
+    "Definitives Vertragsende",
+    "Fin de bail"
+  ],
+  "extension_type_automatic_renewal": [
+    "Extension type (automatic renewal)",
+    "Verlängerungsart"
+  ],
+  "floor": [
+    "Floor",
+    "Etage"
+  ],
+  "fläche_sqft": [
+    "Fläche (sqft)",
+    "Mietfläche (ft²)",
+    "Surface Locative (ft²)",
+    "Superficie Locata (ft²)",
+    "Huuroppervlakte (ft²)",
+    "Powierzchnia Najmu (ft²)",
+    "Hyresarea (ft²)"
+  ],
+  "handover_date_lease_transfer": [
+    "Handover date (lease transfer)",
+    "Übergabedatum"
+  ],
+  "heating_costs_advance_payment": [
+    "Heating Costs Advance Payment",
+    "Heizkosten Vorauszahlung",
+    "Charges de Chauffage Avance",
+    "Spese di Riscaldamento Anticipo",
+    "Voorschot Verwarming",
+    "Zaliczka na Koszty Ogrzewania",
+    "Uppvärmningskostnader Förskott"
+  ],
+  "index_allocation_indexation_contribution_rate": [
+    "Index allocation (indexation contribution rate)",
+    "Index‐weitergabe"
+  ],
+  "index_description_index_clause": [
+    "Index description (index clause)",
+    "Index-Bezeichnung (Wertsicherungsklausel)"
+  ],
+  "index_hurdle": [
+    "Index hurdle",
+    "Indexschwelle"
+  ],
+  "index_level_last_adaptation": [
+    "Index level last adaptation",
+    "Indexstand letzte Anpassung"
+  ],
+  "index_type_used": [
+    "Index type used",
+    "Verwendeter Index"
+  ],
+  "industry_id": [
+    "Industry ID",
+    "Branche-ID"
+  ],
+  "is_vacant": [
+    "Is vacant",
+    "Belegungsstatus",
+    "Is_vacant"
+  ],
+  "ist_miete": [
+    "Ist Miete",
+    "NKM Ist-Miete",
+    "Loyer Net Froid Actuel",
+    "Canone Netto Freddo Attuale",
+    "Werkelijke Kale Huur",
+    "Rzeczywisty Czynsz Podstawowy Netto",
+    "Faktisk Kallhyra Netto"
+  ],
+  "istmiete": [
+    "Ist-Miete",
+    "NKM Ist-Miete",
+    "Loyer Net Froid Actuel",
+    "Canone Netto Freddo Attuale",
+    "Werkelijke Kale Huur",
+    "Rzeczywisty Czynsz Podstawowy Netto",
+    "Faktisk Kallhyra Netto"
+  ],
+  "kunde": [
+    "Kunde",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "lease_end": [
+    "Earliest lease end date",
+    "Frühestmögliches Mietende",
+    "Date de Fin de Bail la Plus Précoce",
+    "Data di Scadenza del Contratto Più Precoce",
+    "Vroegst Mogelijke Huur einde",
+    "Najwcześniejszy Termin Zakończenia Najmu",
+    "Tidigaste Hyresavtalets Slutdatum",
+    "Lease End Date",
+    "Definitives Vertragsende",
+    "Fin de bail",
+    "Lease end",
+    "End date"
+  ],
+  "lease_start": [
+    "Lease Start Date",
+    "Beginn (Mietbeginn aktueller Vertrag)",
+    "Prise d'effet bail",
+    "Lease start"
+  ],
+  "ledger_charge_ledger": [
+    "Ledger (Charge Ledger)"
+  ],
+  "legal_entity_id": [
+    "Legal entity ID",
+    "Gesellschaft-ID"
+  ],
+  "legal_entity_ownership_company": [
+    "Legal entity (ownership company)",
+    "Gesellschaft (Mehrheitsgesellschafter)"
+  ],
+  "lessee": [
+    "Lessee",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "letable_area": [
+    "Letable area",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "m2": [
+    "M2",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "mietbeginn": [
+    "Mietbeginn",
+    "Beginn (Mietbeginn aktueller Vertrag)",
+    "Prise d'effet bail"
+  ],
+  "mietende": [
+    "Mietende",
+    "Definitives Vertragsende",
+    "Fin de bail"
+  ],
+  "mieter": [
+    "Mieter",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "monthly_rent": [
+    "Abatement of rent per month",
+    "Mietminderung pro Monat",
+    "Actual Net Cold Rent",
+    "NKM Ist-Miete",
+    "Loyer Net Froid Actuel",
+    "Canone Netto Freddo Attuale",
+    "Werkelijke Kale Huur",
+    "Rzeczywisty Czynsz Podstawowy Netto",
+    "Faktisk Kallhyra Netto",
+    "Description of rental unit",
+    "Mieteinheit-Bezeichnung",
+    "Fixed Rent",
+    "Gross Potential Rent",
+    "Lease status (current)",
+    "Aktueller Status",
+    "Statut du bail",
+    "Next rent escalation (date)",
+    "Nächste Staffelanpassung zum",
+    "Next rent escalation amount (per m²)",
+    "Nächste Staffel (€/m²)",
+    "Number of rental units",
+    "# Mieteinheiten",
+    "Other Rents (excl. management fee)",
+    "Sonstige Mieten (ohne Verwaltungspauschale)",
+    "Autres Loyers (hors Frais de Gestion)",
+    "Altri Affitti (escl. Spese di Gestione)",
+    "Overige Huren (excl. Beheervergoeding)",
+    "Inne Czynsze (bez Opłaty Administracyjnej)",
+    "Övriga Hyror (excl. Admin.avgift)",
+    "Rent free period (per month)",
+    "Mietfreie Zeit pro Monat",
+    "Time of free rent per month (English)",
+    "Rent Reduction (net)",
+    "Mietminderung (netto)",
+    "Réduction de Loyer (net)",
+    "Riduzione Affitto (netto)",
+    "Huurvermindering (netto)",
+    "Redukcja Czynszu (netto)",
+    "Hyresreduktion (netto)",
+    "Rent Roll Report (Title)",
+    "Mieterliste (Berichtsname)",
+    "État Locatif (titre du rapport)",
+    "Target Rent (contracted rent)",
+    "Soll Miete",
+    "Loyer Cible",
+    "Canone Target",
+    "Doelhuur",
+    "Czynsz Docelowy",
+    "Målhyra",
+    "Time of free rent per month",
+    "Turnover rent per month",
+    "Umsatzmiete pro Monat",
+    "Rent ID",
+    "Mieteinheit-ID / Suite ID",
+    "Monthly rent",
+    "Rent per month",
+    "Rent psm current year in eur psm p.u.",
+    "Net rent",
+    "Cold rent",
+    "Net cold rent",
+    "Monthly base rent",
+    "Monthly base rent (usd)",
+    "Status current",
+    "Current status",
+    "Status (current)"
+  ],
+  "moveout_date_vacate_date": [
+    "Move-out Date (vacate date)",
+    "Auszugsdatum",
+    "Date de Déménagement",
+    "Data Uscita",
+    "Uitgangsdatum",
+    "Data Wyprowadzenia",
+    "Utflyttningsdatum"
+  ],
+  "m²": [
+    "M²",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "next_indexation_date": [
+    "Next indexation date",
+    "Datum der nächsten Indexanpassung"
+  ],
+  "next_option_date": [
+    "Next option date",
+    "Nächster Optionstermin"
+  ],
+  "next_option_notice_deadline": [
+    "Next option notice deadline",
+    "Optionsvorankündigungsfrist"
+  ],
+  "next_vacancy_break_option_earliest": [
+    "Next vacancy break option (earliest)",
+    "Mögl. Kündigung Vermieter zum"
+  ],
+  "no": [
+    "No",
+    "Mieteinheit-ID / Suite ID",
+    "No."
+  ],
+  "number_of_options_": [
+    "Number of options (#)",
+    "# Optionen"
+  ],
+  "number_of_other_units_nonparking": [
+    "Number of other units (non-parking)",
+    "Anzahl sonstige Stück-Einheiten (außer Stellplätze)"
+  ],
+  "number_of_vacancies_": [
+    "Number of vacancies (#)",
+    "Leerstand"
+  ],
+  "occupier": [
+    "Occupier",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "option_record_option_terms": [
+    "Option record (option terms)",
+    "Optionssatz"
+  ],
+  "parking_spaces": [
+    "Lettable parking spaces (#)",
+    "# vermietbare Stellplätze (innen und außen)"
+  ],
+  "portfolio": [
+    "Portfolio"
+  ],
+  "portfolio_description": [
+    "Portfolio description",
+    "Portfolio-Bezeichnung"
+  ],
+  "portfolio_id": [
+    "Portfolio ID",
+    "Portfolio-ID"
+  ],
+  "postal_code": [
+    "Postal code",
+    "Postleitzahl"
+  ],
+  "prepayment_on_operational_expenses_per_month": [
+    "Prepayment on operational expenses per month",
+    "Vorauszahlung BKHK pro Monat"
+  ],
+  "prise_deffet_bail": [
+    "Prise d'effet bail",
+    "Beginn (Mietbeginn aktueller Vertrag)"
+  ],
+  "promotion_fund": [
+    "Promotion Fund"
+  ],
+  "property_name": [
+    "Property Code",
+    "Objekt-ID",
+    "Property Name",
+    "Objekt-Bezeichnung",
+    "Property Type",
+    "Objektart"
+  ],
+  "reference_date_reporting_date": [
+    "Reference date (reporting date)",
+    "Stichtag"
+  ],
+  "regionlocation_type": [
+    "Region/Location type",
+    "Objektlage"
+  ],
+  "service_charge": [
+    "Service Charges (operating expenses)",
+    "Nebenkosten"
+  ],
+  "special_right_of_termination_date": [
+    "Special right of termination (date)",
+    "Datum nächstes Sonderkündigungsrecht"
+  ],
+  "square_feet": [
+    "Square feet",
+    "Mietfläche (ft²)",
+    "Surface Locative (ft²)",
+    "Superficie Locata (ft²)",
+    "Huuroppervlakte (ft²)",
+    "Powierzchnia Najmu (ft²)",
+    "Hyresarea (ft²)"
+  ],
+  "square_metres": [
+    "Square metres",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "start_of_contract_lease_begin": [
+    "Start of contract (Lease begin)",
+    "Vertragsbeginn"
+  ],
+  "status": [
+    "Move-in Date (occupancy start)",
+    "Einzugsdatum",
+    "Date d'Emménagement",
+    "Data Ingresso",
+    "Ingangsdatum",
+    "Data Wejścia",
+    "Inflyttningsdatum",
+    "Occupancy (Occupied/Vacant)",
+    "Belegung (belegt/leer)",
+    "Occupé / Vacant",
+    "Unit Status",
+    "Belegungsstatus",
+    "Status",
+    "Aktueller Status",
+    "Statut du bail",
+    "Lease status",
+    "Occupancy status"
+  ],
+  "street_address": [
+    "Street address",
+    "Straße"
+  ],
+  "technical_asset_manager": [
+    "Technical Asset Manager",
+    "Technischer Asset Manager"
+  ],
+  "tenant_name": [
+    "Customer (Lessee legal name)",
+    "Vertragspartner",
+    "Industry (Tenant sector)",
+    "Branche des Mieters",
+    "Next tenant break option (earliest)",
+    "Mögl. Kündigung Mieter zum",
+    "Resident (Tenant Name)",
+    "Mietername / Mieter",
+    "(n/a)",
+    "Sector (Tenant industry sector)",
+    "Branche",
+    "Tenant (Lessee) Name",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst",
+    "Tenant Arrears",
+    "Mieterrückstand",
+    "Arriérés Locataire",
+    "Tenant ID",
+    "Mieter-ID",
+    "Tenant Type (e.g. anchor/inline)",
+    "Mieterkategorie",
+    "Tenant",
+    "Tenant Name",
+    "Customer"
+  ],
+  "termination_rule": [
+    "Termination rule",
+    "Kündigungsregel"
+  ],
+  "unit_id": [
+    "Rental unit ID (Suite ID)",
+    "Mieteinheit-ID / Suite ID",
+    "Unit ID",
+    "Unit",
+    "Unit number"
+  ],
+  "unit_type": [
+    "Unit Type",
+    "Nutzungsart",
+    "Type d'Utilisation",
+    "Tipo di Utilizzo",
+    "Gebruikstype",
+    "Rodzaj Użytkowania",
+    "Användningstyp"
+  ],
+  "unitid": [
+    "UnitID",
+    "Mieteinheit-ID / Suite ID"
+  ],
+  "vacancy_reason": [
+    "Vacancy reason",
+    "Leerstandsgrund"
+  ],
+  "vacancy_reason_id": [
+    "Vacancy reason ID",
+    "Leerstandsgrund-ID"
+  ],
+  "vacant": [
+    "Vacant",
+    "Belegungsstatus"
+  ],
+  "vermietbare_fläche": [
+    "Vermietbare fläche",
+    "Mietfläche (m²)",
+    "Surface Locative",
+    "Superficie Locata",
+    "Huuroppervlakte",
+    "Powierzchnia Najmu",
+    "Hyresarea"
+  ],
+  "vermittler": [
+    "Vermittler",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "vertragspartner": [
+    "Vertragspartner",
+    "Mietername / Mieter",
+    "Nom du Locataire / Locataire",
+    "Nome Inquilino / Inquilino",
+    "Naam Huurder / Huurder",
+    "Nazwa Najemcy / Najemca",
+    "Hyresgästenamn / Hyresgäst"
+  ],
+  "walb_years": [
+    "WALB (years)",
+    "WALB (Jahre)",
+    "WALB (année)"
+  ],
+  "walt": [
+    "WALT (years)",
+    "WALT (Jahre)",
+    "WALT (année)"
+  ],
+  "währung": [
+    "Währung",
+    "Devise",
+    "Valuta",
+    "Waluta"
+  ],
+  "year_of_construction": [
+    "Year of construction",
+    "Baujahr"
+  ],
+  "year_of_renovation": [
+    "Year of renovation",
+    "Umbaujahr"
+  ]
+}
